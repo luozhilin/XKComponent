@@ -1,0 +1,16 @@
+PODS:
+  - LZLComponent (0.1.0)
+
+DEPENDENCIES:
+  - LZLComponent (from `../`)
+
+EXTERNAL SOURCES:
+  LZLComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZLComponent: 363e7a72eac239eb3b3c2eb342ab6babbc6e6464
+
+PODFILE CHECKSUM: ecc89162958a62fd057219b1b015f3adc106511f
+
+COCOAPODS: 1.9.3
