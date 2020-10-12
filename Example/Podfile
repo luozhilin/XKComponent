@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LZLComponent_Example' do
+  pod 'LZLComponent', :path => '../'
+
+  target 'LZLComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
